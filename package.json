@@ -332,6 +332,7 @@
     "whatwg-fetch": "3.1.0"
   },
   "resolutions": {
+    "braces": "3.0.3",
     "caniuse-db": "1.0.30000772",
     "@types/slate": "0.47.2",
     "@types/react": "^17.0.0",
