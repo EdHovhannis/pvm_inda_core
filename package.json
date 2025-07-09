@@ -199,7 +199,10 @@
     "moment": "2.24.0",
     "**/react": "17.0.1",
     "**/react-dom": "17.0.1",
-    "cross-spawn": "6.0.6"
+    "cross-spawn": "6.0.6",
+    "immer": "9.0.6",
+    "d3-color": "3.1.0",
+    "got": "11.8.5"
   },
   "workspaces": {
     "packages": [
