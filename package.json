@@ -332,7 +332,7 @@
     "whatwg-fetch": "3.1.0"
   },
   "resolutions": {
-    "d3-color": "3.1.0",
+    "uglify-js": "3.14.3",
     "immer":"9.0.6",
     "braces": "3.0.3",
     "caniuse-db": "1.0.30000772",
