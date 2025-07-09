@@ -65,7 +65,7 @@
     ]
   },
   "dependencies": {
-    "@ant-design/plots": "2.2.2",
+    "@ant-design/plots": "^1.0.9",
     "@babel/helper-skip-transparent-expression-wrappers": "^7.12.1",
     "@emotion/core": "10.0.27",
     "@grafana/aws-sdk": "0.0.3",
@@ -132,8 +132,8 @@
     "lru-cache": "^5.1.1",
     "md5": "^2.2.1",
     "memoize-one": "5.1.1",
-    "moment": "2.29.4",
-    "moment-timezone": "0.5.48",
+    "moment": "2.24.0",
+    "moment-timezone": "0.5.28",
     "mousetrap": "1.6.5",
     "mousetrap-global-bind": "1.1.0",
     "nodemon": "2.0.2",
@@ -196,13 +196,9 @@
     "@types/slate": "0.47.2",
     "@types/react": "^17.0.0",
     "monaco-editor": "0.20.0",
-    "moment": "2.29.4",
+    "moment": "2.24.0",
     "**/react": "17.0.1",
-    "**/react-dom": "17.0.1",
-    "cross-spawn": "6.0.6",
-    "immer": "9.0.6",
-    "d3-color": "3.1.0",
-    "got": "11.8.5"
+    "**/react-dom": "17.0.1"
   },
   "workspaces": {
     "packages": [
